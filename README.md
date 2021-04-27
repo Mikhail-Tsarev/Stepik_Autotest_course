@@ -1,2 +1,4 @@
 # Stepik_Autotest_course
-Exs from course
+
+In this repository I'll publish some exs from the Course.
+
